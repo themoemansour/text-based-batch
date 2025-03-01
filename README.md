@@ -83,9 +83,9 @@ This is a **text-based adventure game** developed using Windows **Batch scriptin
 ## File Structure
 
 ```
-BatchTextGame/
+BatchTextGame
 │── game.bat               # Main game script
-/
+```
 ---
 
 ## Development Notes
