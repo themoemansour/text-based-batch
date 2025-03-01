@@ -49,7 +49,7 @@ This is a **text-based adventure game** developed using Windows **Batch scriptin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_GITHUB_USERNAME/BatchTextGame.git
+   git clone https://github.com/themoemansour/BatchTextGame.git
    ```
 2. Navigate to the project folder:
    ```bash
