@@ -130,5 +130,5 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 ## Contact
 
-For any questions, feel free to reach out via GitHub or email: **[Your Email]**
+For any questions, feel free to reach out via GitHub or email: **moemansour@ku.edu**
 
