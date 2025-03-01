@@ -85,14 +85,6 @@ This is a **text-based adventure game** developed using Windows **Batch scriptin
 ```
 BatchTextGame/
 │── game.bat               # Main game script
-│── story.bat              # Storyline and branching logic
-│── combat.bat             # Combat mechanics
-│── inventory.bat          # Inventory and item management
-│── npcs.bat               # NPC dialogues and interactions
-│── worldmap.bat           # Navigation system
-│── save.bat               # Save/load system
-└── assets/                # ASCII art and other assets
-```
 
 ---
 
